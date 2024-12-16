@@ -35,8 +35,8 @@ const Blogs = () => {
     <section className="py-16 bg-light-gray">
       <div className="container mx-auto px-4">
         {/* Section Title */}
-        <h2 className="text-4xl font-bold text-center text-dark-blue mb-8 hover:text-pink-500">
-          Latest Blog
+        <h2 className="text-4xl font-bold text-center text-dark-blue mb-10 mt-10 hover:text-pink-500">
+          Leatest Blog
         </h2>
 
         {/* Blog Cards */}
