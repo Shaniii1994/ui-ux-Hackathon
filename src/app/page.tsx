@@ -6,7 +6,6 @@ import Topcateg from "@/app/components/topcateg";
 import Offers from "@/app/components/offers";
 import Footer from "@/app/components/footer";
 import Blog from "@/app/components/blog";
-import Grid from "./components/Grid";
 
 
 
@@ -16,7 +15,6 @@ export default function Home() {
     <div>
       <Header/>
       <Navbar/>
-      <Grid/>
       <Hero/>
       <Topcateg/>
       <Offers/>
